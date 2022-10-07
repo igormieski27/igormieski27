@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center"> Teste </h1>
+<h2 align="center"> Teste </h2>
 
-<!--
-**igormieski27/igormieski27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">🌱 teste  </p>
+  
+  <h2 align="center">Linguagens e tecnologias</h2>
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,cs,java,mysql,styledcomponents,git&theme=light" />
+  </a>
+</p>
+   
 
-Here are some ideas to get you started:
+![](./profile-3d-contrib/profile-night-green.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+   
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igormieski27&label=Profile%20views&color=0e75b6&style=flat" alt="igormieski27" /> </p>
+
+
+  
+  
+ <h2 align="center">Redes sociais</h2>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/gabriel-antunes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+   
+
