@@ -1,5 +1,5 @@
 <h1 align="center"> Igor Matheus Ieski </h1>
-<h2 align="center"> Desenvolvedor Júnior Fullstack </h2>
+<h2 align="center"> Desenvolvedor Full-stack </h2>
 
   <p align="center">🌱  </p>
   
