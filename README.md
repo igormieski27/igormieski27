@@ -23,7 +23,7 @@
   
  <h2 align="center">Redes sociais</h2>
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/gabriel-antunes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/igor-matheus-ieski-b217b5202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
    
