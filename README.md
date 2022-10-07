@@ -1,7 +1,7 @@
-<h1 align="center"> Teste </h1>
-<h2 align="center"> Teste </h2>
+<h1 align="center"> Igor Matheus Ieski </h1>
+<h2 align="center"> Desenvolvedor Júnior Fullstack </h2>
 
-  <p align="center">🌱 teste  </p>
+  <p align="center">🌱  </p>
   
   <h2 align="center">Linguagens e tecnologias</h2>
    <p align="center">
