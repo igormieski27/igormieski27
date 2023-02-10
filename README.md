@@ -1,8 +1,4 @@
-<h1 align="center"> Igor Matheus Ieski </h1>
-<h2 align="center"> Desenvolvedor Full-stack </h2>
 
-  <p align="center">🌱  </p>
-  
   <h2 align="center">Linguagens e tecnologias</h2>
    <p align="center">
   <a href="https://skillicons.dev">
