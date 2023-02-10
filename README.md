@@ -2,7 +2,7 @@
   <h2 align="center">Linguagens e tecnologias</h2>
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,cs,java,mysql,styledcomponents,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,cs,java,mysql,styledcomponents,git,python&theme=light" />
   </a>
 </p>
    
