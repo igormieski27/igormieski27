@@ -25,6 +25,9 @@
   
  <h2 align="center">Projetos:</h2>
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/igor-matheus-ieski-b217b5202/" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,php&theme=light" />MyPath</a> 
+  <a href="https://github.com/igormieski27/MyPathBackend" target="_blank">MyPath (Laravel (PHP), Vue.js)</a> 
+  <a href="https://github.com/igormieski27/Webfoot" target="_blank">WebFoot (Angular 14) </a> 
+  <a href="https://github.com/igormieski27/frontend-neko-chat" target="_blank">NekoChat (Angular 14, GO) </a> 
+  <a href="https://github.com/igormieski27/NodeJsSquadScraper" target="_blank">Transfermarkt Squadscraper (Node.js)</a> 
  
 </div>
