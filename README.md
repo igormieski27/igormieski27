@@ -22,3 +22,9 @@
 </div>
    
 
+  
+ <h2 align="center">Projetos:</h2>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/igor-matheus-ieski-b217b5202/" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,php&theme=light" />MyPath</a> 
+ 
+</div>
