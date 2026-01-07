@@ -52,6 +52,11 @@
         <td>scraper para transfermarkt</td>
         <td>2023</td>
       </tr>
+      <tr>
+        <td><a href="https://github.com/igormieski27/GetPet" target="_blank">getpet</a></td>
+        <td>site de adoção de animais</td>
+        <td>2017</td>
+      </tr>
     </table>  
     <p>
       <br>
