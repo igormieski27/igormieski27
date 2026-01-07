@@ -60,7 +60,6 @@
       </tr>
     </table>  
     <p>
-      <br>
       <img src="https://komarev.com/ghpvc/?username=igormieski27&label=profile%20views&color=0e75b6&style=flat" alt="profile views counter" />
     </p>  
   </font>
