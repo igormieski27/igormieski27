@@ -10,8 +10,8 @@
         <img src="https://skillicons.dev/icons?i=html,css,js,angular,cs,java,mysql,styledcomponents,git,python&theme=light" />
       </a>   
     </p>
-    <h3>meus projetos</h3>    
     <img src="https://web.archive.org/web/20091027081447im_/http://de.geocities.com/xtrapager/Images/2.gif" />
+    <h3>meus projetos</h3>    
     <table border="1" cellpadding="15" cellspacing="0" style="border-collapse: collapse;">
       <tr bgcolor="#c0c0c0">
         <th>projeto</th>
