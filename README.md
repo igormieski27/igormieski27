@@ -10,7 +10,7 @@
       </a>   
     </p>
     <h3>meus projetos</h3>    
-    <br>
+    <img src="https://web.archive.org/web/20091027081447im_/http://de.geocities.com/xtrapager/Images/2.gif" />
     <table border="1" cellpadding="15" cellspacing="0" style="border-collapse: collapse;">
       <tr bgcolor="#c0c0c0">
         <th>projeto</th>
