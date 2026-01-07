@@ -32,4 +32,29 @@
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
   <tr>
-    <td><a h
+    <td><a href="https://pranchetta.vercel.app" target="_blank">pranchetta</a></td>
+    <td>daily football trivia game</td>
+  </tr>
+  <tr>
+    <td><a href="https://mega-sena-ranqueada.vercel.app" target="_blank">mega-sena ranqueada</a></td>
+    <td>lottery ranking system</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/igormieski27/MyPathBackend" target="_blank">mypath</a></td>
+    <td>laravel (php), vue.js</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/igormieski27/frontend-neko-chat" target="_blank">nekochat</a></td>
+    <td>angular 14, go</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/igormieski27/NodeJsSquadScraper" target="_blank">transfermarkt squadscraper</a></td>
+    <td>node.js</td>
+  </tr>
+</table>
+
+<hr>
+
+<p align="center">
+  <font size="1">made with &lt;3 in old school html style</font>
+</p>
