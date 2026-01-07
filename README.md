@@ -1,34 +1,35 @@
-   <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,angular,cs,java,mysql,styledcomponents,git,python&theme=light" />
   </a>
 </p>
-   
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<hr>
 
- 
-   
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="contribution graph" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igormieski27&label=Profile%20views&color=0e75b6&style=flat" alt="igormieski27" /> </p>
+<hr>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=igormieski27&label=profile%20views&color=0e75b6&style=flat" alt="profile views counter" />
+</p>
 
-  
-  
- <h2 align="center">Redes sociais</h2>
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/igor-matheus-ieski-b217b5202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-   
+<hr>
 
-  
- <h2 align="center">Projetos:</h2>
-<div align="center"> 
-  <a href="https://pranchetta.vercel.app" target="_blank">Pranchetta (Daily football trivia game)</a> <br>
-  <a href="https://mega-sena-ranqueada.vercel.app" target="_blank">Mega-Sena Ranqueada</a> <br>
-  <a href="https://github.com/igormieski27/MyPathBackend" target="_blank">MyPath (Laravel (PHP), Vue.js)</a> <br>
-  <a href="https://github.com/igormieski27/frontend-neko-chat" target="_blank">NekoChat (Angular 14, GO) </a> <br>
-  <a href="https://github.com/igormieski27/NodeJsSquadScraper" target="_blank">Transfermarkt Squadscraper (Node.js)</a> <br>
- 
-</div>
+<h3 align="center">redes sociais</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/igor-matheus-ieski-b217b5202/" target="_blank">
+    <img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
+  </a>
+</p>
+
+<hr>
+
+<h3 align="center">projetos</h3>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td><a h
