@@ -1,18 +1,12 @@
-<div align="center">
+<div align="left">
   <font face="Courier New, monospace">
-    <p>
+    ![ezgif-150ab7a7f892943c](https://github.com/user-attachments/assets/881dac1f-a8fa-4469-9af3-38d26286a522)
+    <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,angular,cs,java,mysql,styledcomponents,git,python&theme=light" />
       </a>   
-    <br>
-    <h3>├─ redes sociais</h3>
-    <p>
-      <a href="https://www.linkedin.com/in/igor-matheus-ieski-b217b5202/" target="_blank">
-        <img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
-      </a>
     </p>
-    <br><br>
-    <h3>├─ meus projetos</h3>    
+    <h3>meus projetos</h3>    
     <br>
     <table border="1" cellpadding="15" cellspacing="0" style="border-collapse: collapse;">
       <tr bgcolor="#c0c0c0">
