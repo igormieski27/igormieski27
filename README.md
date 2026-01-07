@@ -1,6 +1,6 @@
+![ezgif-197d0482f970057d](https://github.com/user-attachments/assets/228bd1ed-083b-46fd-a1b5-0a39cf11abd0)
 <div align="left">
   <font face="Courier New, monospace">
-    ![ezgif-150ab7a7f892943c](https://github.com/user-attachments/assets/881dac1f-a8fa-4469-9af3-38d26286a522)
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,angular,cs,java,mysql,styledcomponents,git,python&theme=light" />
