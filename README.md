@@ -1,5 +1,8 @@
-![ezgif-197d0482f970057d](https://github.com/user-attachments/assets/228bd1ed-083b-46fd-a1b5-0a39cf11abd0)
-<div align="left">
+
+<div align="center">
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/228bd1ed-083b-46fd-a1b5-0a39cf11abd0" />
+  </p>
   <font face="Courier New, monospace">
     <p align="center">
       <a href="https://skillicons.dev">
