@@ -28,6 +28,16 @@
         <td>2025</td>
       </tr>
       <tr>
+        <td><a href="https://github.com/igormieski27/truco-battle-royale" target="_blank">truco battle royale</a></td>
+        <td>truco battle royale</td>
+        <td>2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/igormieski27/Webfoot" target="_blank">webfoot</a></td>
+        <td>simulador de técnico de futebol em angular</td>
+        <td>2024</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/igormieski27/MyPathBackend" target="_blank">mypath</a></td>
         <td>app de gamificação de desenvolvimento pessoal</td>
         <td>2022</td>
