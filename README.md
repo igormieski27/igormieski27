@@ -15,26 +15,32 @@
       <tr bgcolor="#c0c0c0">
         <th>projeto</th>
         <th>descrição</th>
-      </tr>
-      <tr>
-        <td><a href="https://pranchetta.vercel.app" target="_blank">pranchetta</a></td>
-        <td>wordle de escalações de futebol</td>
+        <th>ano</th>
       </tr>
       <tr bgcolor="#f0f0f0">
         <td><a href="https://mega-sena-ranqueada.vercel.app" target="_blank">mega-sena ranqueada</a></td>
         <td>simulador de mega-sena com ranking</td>
+        <td>2026</td>
+      </tr>
+      <tr>
+        <td><a href="https://pranchetta.vercel.app" target="_blank">pranchetta</a></td>
+        <td>wordle de escalações de futebol</td>
+        <td>2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/igormieski27/MyPathBackend" target="_blank">mypath</a></td>
         <td>app de gamificação de desenvolvimento pessoal</td>
+        <td>2022</td>
       </tr>
       <tr bgcolor="#f0f0f0">
         <td><a href="https://github.com/igormieski27/frontend-neko-chat" target="_blank">nekochat</a></td>
         <td>chat anônimo com temática oldschool</td>
+        <td>2022</td>
       </tr>
       <tr>
         <td><a href="https://github.com/igormieski27/NodeJsSquadScraper" target="_blank">transfermarkt squadscraper</a></td>
         <td>scraper para transfermarkt</td>
+        <td>2023</td>
       </tr>
     </table>  
     <p>
