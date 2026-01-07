@@ -1,7 +1,8 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/228bd1ed-083b-46fd-a1b5-0a39cf11abd0" />
+  <img src="https://github.com/user-attachments/assets/d982df21-0a35-461b-af00-212f6f3fff2b" />
+
   </p>
   <font face="Courier New, monospace">
     <p align="center">
