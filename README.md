@@ -17,50 +17,60 @@
         <th>projeto</th>
         <th>descrição</th>
         <th>ano</th>
+        <th>tecnologias</th>
       </tr>
       <tr bgcolor="#f0f0f0">
         <td><a href="https://mega-sena-ranqueada.vercel.app" target="_blank">mega-sena ranqueada</a></td>
         <td>simulador de mega-sena com ranking</td>
+        <td>JS vanilla</td>
         <td>2026</td>
       </tr>
       <tr bgcolor="#f0f0f0">
         <td><a href="https://snapi-front.vercel.app/" target="_blank">snapi</a></td>
         <td>gerador de publicações de marketing em rede social</td>
+        <td>angular, node.js, gemini api</td>
         <td>2023</td>
       </tr>
       <tr>
         <td><a href="https://pranchetta.vercel.app" target="_blank">pranchetta</a></td>
         <td>wordle de escalações de futebol</td>
+        <td>angular, node.js, firebase</td>
         <td>2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/igormieski27/truco-battle-royale" target="_blank">truco battle royale</a></td>
         <td>truco battle royale</td>
+        <td>angular, node.js, socket.io</td>
         <td>2025</td>
       </tr>
       <tr>
         <td><a href="https://github.com/igormieski27/Webfoot" target="_blank">webfoot</a></td>
         <td>simulador de técnico de futebol em angular</td>
+        <td>angular</td>
         <td>2024</td>
       </tr>
       <tr>
         <td><a href="https://github.com/igormieski27/MyPathBackend" target="_blank">mypath</a></td>
         <td>app de gamificação de desenvolvimento pessoal</td>
+        <td>vue.js, laravel php, postgresql</td>
         <td>2022</td>
       </tr>
       <tr bgcolor="#f0f0f0">
         <td><a href="https://github.com/igormieski27/frontend-neko-chat" target="_blank">nekochat</a></td>
         <td>chat anônimo com temática oldschool</td>
+        <td>golang</td>
         <td>2022</td>
       </tr>
       <tr>
         <td><a href="https://github.com/igormieski27/NodeJsSquadScraper" target="_blank">transfermarkt squadscraper</a></td>
         <td>scraper para transfermarkt</td>
+        <td>node.js, cheerio</td>
         <td>2023</td>
       </tr>
       <tr>
         <td><a href="https://github.com/igormieski27/GetPet" target="_blank">getpet</a></td>
         <td>site de adoção de animais</td>
+        <td>php</td>
         <td>2017</td>
       </tr>
     </table>  
