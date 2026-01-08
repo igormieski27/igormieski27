@@ -26,7 +26,7 @@
       <tr bgcolor="#f0f0f0">
         <td><a href="https://snapi-front.vercel.app/" target="_blank">snapi</a></td>
         <td>gerador de publicações de marketing em rede social</td>
-        <td>2026</td>
+        <td>2023</td>
       </tr>
       <tr>
         <td><a href="https://pranchetta.vercel.app" target="_blank">pranchetta</a></td>
