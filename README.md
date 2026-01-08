@@ -23,6 +23,11 @@
         <td>simulador de mega-sena com ranking</td>
         <td>2026</td>
       </tr>
+      <tr bgcolor="#f0f0f0">
+        <td><a href="https://mega-sena-ranqueada.vercel.app" target="_blank">snapi</a></td>
+        <td>sgerador de publicações de marketing em rede social</td>
+        <td>2026</td>
+      </tr>
       <tr>
         <td><a href="https://pranchetta.vercel.app" target="_blank">pranchetta</a></td>
         <td>wordle de escalações de futebol</td>
