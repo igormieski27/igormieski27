@@ -24,8 +24,8 @@
         <td>2026</td>
       </tr>
       <tr bgcolor="#f0f0f0">
-        <td><a href="https://mega-sena-ranqueada.vercel.app" target="_blank">snapi</a></td>
-        <td>sgerador de publicações de marketing em rede social</td>
+        <td><a href="https://snapi-front.vercel.app/" target="_blank">snapi</a></td>
+        <td>gerador de publicações de marketing em rede social</td>
         <td>2026</td>
       </tr>
       <tr>
