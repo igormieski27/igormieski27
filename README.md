@@ -16,8 +16,8 @@
       <tr bgcolor="#c0c0c0">
         <th>projeto</th>
         <th>descrição</th>
-        <th>ano</th>
         <th>tecnologias</th>
+        <th>ano</th>
       </tr>
       <tr bgcolor="#f0f0f0">
         <td><a href="https://mega-sena-ranqueada.vercel.app" target="_blank">mega-sena ranqueada</a></td>
