@@ -2,7 +2,7 @@
 <div align="center">
   <p align="center">
   <img src="https://github.com/user-attachments/assets/d982df21-0a35-461b-af00-212f6f3fff2b" />
-
+  bem vindo! :)
   </p>
   <font face="Courier New, monospace">
     <p align="center">
