@@ -20,7 +20,7 @@
         <th>ano</th>
       </tr>
       <tr bgcolor="#f0f0f0">
-        <td><a href="https://mega-sena-ranqueada.vercel.app" target="_blank">linkedscore</a></td>
+        <td><a href="https://github.com/igormieski27/linkedscore" target="_blank">linkedscore</a></td>
         <td>extensão que atribui um score ao seu perfil do linkedin</td>
         <td>JS</td>
         <td>2026</td>
