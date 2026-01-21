@@ -2,7 +2,8 @@
 <div align="center">
   <p align="center">
 
-  bem vindo! :)
+  <h3>  bem vindo! :)</h3> 
+  
   </p>
   <font face="Courier New, monospace">
     <p align="center">
