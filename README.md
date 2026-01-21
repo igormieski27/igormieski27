@@ -20,6 +20,12 @@
         <th>ano</th>
       </tr>
       <tr bgcolor="#f0f0f0">
+        <td><a href="https://mega-sena-ranqueada.vercel.app" target="_blank">linkedscore</a></td>
+        <td>extensão que atribui um score ao seu perfil do linkedin</td>
+        <td>JS</td>
+        <td>2026</td>
+      </tr>
+      <tr bgcolor="#f0f0f0">
         <td><a href="https://mega-sena-ranqueada.vercel.app" target="_blank">mega-sena ranqueada</a></td>
         <td>simulador de mega-sena com ranking</td>
         <td>JS vanilla</td>
