@@ -21,7 +21,7 @@
         <th>ano</th>
       </tr>
        <tr bgcolor="#f0f0f0">
-        <td><a href="https://github.com/igormieski27/brasfoot2009winforms" target="_blank">brasfoot2009winforms</a></td>
+        <td><a href="https://github.com/igormieski27/Brasfoot2009Webforms" target="_blank">brasfoot2009winforms</a></td>
         <td>clone do lendário Brasfoot 2009</td>
         <td>C#/Winforms</td>
         <td>2026</td>
