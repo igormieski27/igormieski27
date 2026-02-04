@@ -20,6 +20,12 @@
         <th>tecnologias</th>
         <th>ano</th>
       </tr>
+       <tr bgcolor="#f0f0f0">
+        <td><a href="https://github.com/igormieski27/brasfoot2009winforms" target="_blank">brasfoot2009winforms</a></td>
+        <td>clone do lendário Brasfoot 2009</td>
+        <td>C#/Winforms</td>
+        <td>2026</td>
+      </tr>
       <tr bgcolor="#f0f0f0">
         <td><a href="https://github.com/igormieski27/linkedscore" target="_blank">linkedscore</a></td>
         <td>extensão que atribui um score ao seu perfil do linkedin</td>
